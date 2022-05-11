@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Simple fabrication of a chitin wound healing membrane from Soft-Shell crab carapace"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-04-21-crab-carapace
+excerpt: 'Highlights:
+1. Minimal processing was required to fabricate a wound healing scaffold from soft-shell crab carapace.
+2. The carapace has small prickles that improves cell adhesion and guide cell migration.
+3. Epidermis-dermis reattachment was accelerated, and wound topography improved upon scaffold application.'
+date: 2021-04-21
+venue: 'Materials Letters'
+paperurl: 'http://vchauu.github.io/files/crab_carapace.pdf'
+citation: 'Vo, C., Do, D., Phan, T., Tran, Q., Vo, T. and Nguyen, T., 2021. Simple fabrication of a chitin wound healing membrane from Soft-Shell crab carapace. Materials Letters, 297, p.129995'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://vchauu.github.io/files/crab_carapace.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Vo, C., Do, D., Phan, T., Tran, Q., Vo, T. and Nguyen, T., 2021. Simple fabrication of a chitin wound healing membrane from Soft-Shell crab carapace. Materials Letters, 297, p.129995.
